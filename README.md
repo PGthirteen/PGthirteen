@@ -28,6 +28,3 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=PGthirteen)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PGthirteen)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PGthirteen)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PGthirteen)
