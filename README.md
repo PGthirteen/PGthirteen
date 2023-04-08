@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:PGthirteen?theme=rule34">
 
 ## 前端工程师—天平
 
@@ -13,7 +13,7 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"/></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
 <a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
@@ -24,15 +24,10 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=PGthirteen&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
-
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=PGthirteen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=PGthirteen)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PGthirteen)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PGthirteen&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PGthirteen&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PGthirteen)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PGthirteen)
