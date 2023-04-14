@@ -2,7 +2,7 @@
 
 ## 前端工程师—PG
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小刘同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 ### **社交主页：**
 
