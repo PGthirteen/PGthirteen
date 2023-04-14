@@ -2,7 +2,6 @@
 
 ## 前端工程师—PG
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小刘同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 ### **社交主页：**
 
@@ -29,3 +28,5 @@
 [![](https://activity-graph.herokuapp.com/graph?username=PGthirteen)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PGthirteen)
 
+
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小刘同学祝您今天愉快!&center=true&size=27"> </a> </h1>
